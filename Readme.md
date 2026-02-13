@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
   
-  <h1 align="center">👋 Hi, I'm <span style="color:#00aaff;">Manish Kumar</span></h1>
+  <h1 align="center">👋 Hi, I'm <span style="color:#00aaff;">Manish </span></h1>
   <h3 align="center">Android Developer | MERN Developer | UI/UX</h3>
 </div>
 
@@ -11,17 +11,19 @@
 <!-- BADGES -->
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL" target="_blank">
+<a href="https://www.linkedin.com/in/manish-kumarx/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 
 <a href="mailto:manishkumardphs9090@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_GITHUB_URL" target="_blank">
+<a href="https://github.com/Manishkumar1432" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 
 <a href="YOUR_PORTFOLIO_URL" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
