@@ -26,8 +26,10 @@
 
 
 <a href="https://manishkumar1432.github.io/My_Portfolio/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"
+       style="width:100px; height:100px; border-radius:50%; object-fit:cover;" />
 </a>
+
 
 <a href="https://www.instagram.com/manishflipper143/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
