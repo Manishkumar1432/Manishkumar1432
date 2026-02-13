@@ -175,7 +175,7 @@ I am **Manish Kumar**, a passionate **Android Developer & MERN Stack Developer**
 <div align="center">
 
 ### 👀 Profile Views  
-<img src="https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=3&color=6"/>
+<img src="https://github.com/Manishkumar1432"/>
 
 </div>
 
