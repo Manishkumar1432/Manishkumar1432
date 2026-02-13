@@ -72,10 +72,23 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-00A8E8?style=for-the-badge&logo=flutter&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 <!-- Cloud -->
 ### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+<!-- Core Subjects -->
+### 📘 Core Subjects
+![DBMS](https://img.shields.io/badge/DBMS-1E90FF?style=for-the-badge)
+![CN](https://img.shields.io/badge/Computer%20Networks-800080?style=for-the-badge)
+![OS](https://img.shields.io/badge/Operating%20Systems-228B22?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-FF4500?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-2E8B57?style=for-the-badge)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-FF69B4?style=for-the-badge)
+![IoT](https://img.shields.io/badge/IoT-20B2AA?style=for-the-badge)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge)
+
 
 </div>
 
