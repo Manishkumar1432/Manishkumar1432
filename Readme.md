@@ -26,8 +26,7 @@
 
 
 <a href="https://manishkumar1432.github.io/My_Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"
-       style="width:100px; height:100px; border-radius:50%; object-fit:cover;" />
+<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 
