@@ -37,18 +37,31 @@
 
 ## 🚀 Tech Stack
 
+## 🚀 Tech Stack
+
 ![Java](https://img.shields.io/badge/Java-%23E34F26.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Android](https://img.shields.io/badge/Android-%2334A853.svg?style=for-the-badge&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+
 ![Figma](https://img.shields.io/badge/Figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-%2300A8E8.svg?style=for-the-badge&logo=flutter&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS%20Cloud-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 ---
 
