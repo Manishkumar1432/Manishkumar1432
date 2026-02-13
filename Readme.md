@@ -25,9 +25,18 @@
 </a>
 
 
-<a href="YOUR_PORTFOLIO_URL" target="_blank">
+<a href="https://manishkumar1432.github.io/My_Portfolio/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
+
+<a href="https://www.instagram.com/manishflipper143/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@psychounboxing143" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
 
 </div>
 
