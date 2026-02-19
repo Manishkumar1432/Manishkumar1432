@@ -100,6 +100,7 @@
 <!-- Cloud -->
 ### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 <!-- Core Subjects -->
 ### 📘 Core Subjects
